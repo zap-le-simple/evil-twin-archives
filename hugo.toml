@@ -45,6 +45,12 @@ enableDefault = true
 
 [markup.goldmark.renderHooks.link]
 enableDefault = true
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+
+
 
 
 [menus]
@@ -70,7 +76,7 @@ enableDefault = true
       rel = 'external'
 
 [params.repository]
-  branch = 'master'
+  branch = 'main'
   owner = 'zap-le-simple'
   repo = 'evil-twin-archives'
   service = 'GitHub'
