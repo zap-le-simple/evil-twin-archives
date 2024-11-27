@@ -4,3 +4,7 @@
 /static
 /public
 .hugo_build.lock
+/.debris
+.megaignore
+/_vrac
+Icon
