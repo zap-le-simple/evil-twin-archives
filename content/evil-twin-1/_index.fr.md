@@ -16,3 +16,4 @@ menus:
 - [Jouer au jeu aujourd'hui](evil1_playing.md)
 - [Jouer sur Windows 10](evil1_windows.md)
 - [Les 4 mini-jeux abandonnés](evil1_vmu.md)
+{.section}

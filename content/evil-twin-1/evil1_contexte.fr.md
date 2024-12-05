@@ -8,6 +8,7 @@ slug: contexte
 # Développement & contexte de l'époque
 
 Cet itinéraire qui retrace la conception d’Evil Twin depuis le début du studio In Utero à sa réception critique n’est composé que de sources indirectes (interviews, reportages, témoignages sur des forums). Il tente également d’inscrire le développement du jeu dans le contexte de son époque. Toute correction ou information supplémentaire est donc [bienvenue](https://fr.eviltwin.vibvib.fr/page/contact/).
+{.contexte_intro}
 
 ## 1994 : fondation
 

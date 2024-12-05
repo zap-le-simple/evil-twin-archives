@@ -23,6 +23,57 @@ Bien que cible première du développement, il s'agit au final de la version la 
 
 ## Playstation 2 & Windows
 
-Les versions PS2 et Windows sont bien plus proches l'une de l'autre. Les textures sont quand même un peu plus fines sur Windows, et surtout cette dernière possède bien plus d'effets de lumière absents de la version Playstation 2. L'ensemble des ressources graphiques et sonores y sont optimales. L'avantage de la version PS2 est qu'elle est[ jouable immédiatement via PCSX2](/pages/Jouer-aujourd-hui/). Sur Windows il faudra bidouiller pour lancer un jeu de vingt ans d'âge.
+Les versions PS2 et Windows sont bien plus proches l'une de l'autre. Les textures sont quand même un peu plus fines sur Windows, et surtout cette dernière possède bien plus d'effets de lumière absents de la version Playstation 2. L'ensemble des ressources graphiques et sonores y sont optimales. L'avantage de la version PS2 est qu'elle est[ jouable immédiatement via PCSX2](evil1_playing.md). Sur Windows il faudra bidouiller pour lancer un jeu de vingt ans d'âge.
 
 <div class="juxtapose" id="horizontal3"></div>
+
+<link rel="stylesheet" href="/css/juxtapose.css" type="text/css" />
+<script src="/js/juxtapose.min.js"></script>
+<script>
+     slider_horizontal = new juxtapose.JXSlider('#horizontal', [{
+        src: '/images/juxtapose_dc.jpg',
+        label: 'Dreamcast'
+    }, {
+        src: '/images/juxtapose_ps2.jpg',
+        label: 'PS2'
+    }], {
+        animate: true,
+        showLabels: true,
+        showCredits: false,
+        startingPosition: "45%",
+        makeResponsive: true,
+        mode: "horizontal"
+    });
+</script>
+<script>
+     slider_horizontal = new juxtapose.JXSlider('#horizontal2', [{
+        src: '/images/juxtapose_dc_02.jpg',
+        label: 'Dreamcast'
+    }, {
+        src: '/images/juxtapose_ps2_02.jpg',
+        label: 'PS2'
+    }], {
+        animate: true,
+        showLabels: true,
+        showCredits: false,
+        startingPosition: "45%",
+        makeResponsive: true,
+        mode: "horizontal"
+    });
+</script>
+<script>
+     slider_horizontal = new juxtapose.JXSlider('#horizontal3', [{
+        src: '/images/EvilTwin_Juxtapose_Infirmerie_PC.jpg',
+        label: 'Windows'
+    }, {
+        src: '/images/EvilTwin_Juxtapose_Infirmerie_PS2.jpg',
+        label: 'PS2'
+    }], {
+        animate: true,
+        showLabels: true,
+        showCredits: false,
+        startingPosition: "45%",
+        makeResponsive: true,
+        mode: "horizontal"
+    });
+</script>	

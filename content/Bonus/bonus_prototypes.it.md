@@ -1,0 +1,37 @@
++++
+title = "Prototipo di Evil Twin"
+date = "2014-04-09"
++++
+
+Circolano diversi prototipi di Evil Twin.
+
+## Playstation 2
+
+Il 20 marzo 2021 è stato rilasciato su Hidden Palace un [lotto](https://hiddenpalace.org/Project_Deluge_-_Sony_PlayStation_2_(List)) di Project Deluge, che includeva anche tre prototipi di Evil Twin.
+
+[Evil Twin: Cyprien's Chronicles (15 maggio 2001 prototipo)](https://hiddenpalace.org/Evil_Twin:_Cyprien%27s_Chronicles_(May_15,_2001_prototype))
+[Evil Twin: Cyprien's Chronicles (5 giugno 2001 prototipo)](https://hiddenpalace.org/Evil_Twin:_Cyprien%27s_Chronicles_(Jun_5,_2001_prototype))
+[Evil Twin: Cyprien's Chronicles (13 settembre 2001 prototipo)](https://hiddenpalace.org/Evil_Twin:_Cyprien%27s_Chronicles_(Sep_13,_2001_prototype))
+
+I dettagli tecnici principali sono:
+
+Una build d'anteprima NTSC
+Un [selettore di livelli](/medias/developpement/Levels_Selector/) nel primo prototipo
+
+![](/images/PS2_Evil_Twin_V0.612_Previewed.jpg)
+![](/images/PS2_Evil_Twin_Preview_6.12.04.jpg)
+![](/images/PS2_Evil_Twin_Review.jpg)
+{.cols}
+
+## Dreamcast
+
+[EvilTwin Katana recovery \[Bananabreak\]](https://hiddenpalace.org/Evil_Twin:_Cyprien%27s_Chronicles_\(Dec_10,_2001_Katana_Development_Files\))
+
+![écran titre (béta)](/images/Evil_Twin_Bananabreak.jpg)
+
+Estratto direttamente dal hard disk di un Sega Katana e rilasciato da [BANANABREAK](https://hiddenpalace.org/BANANABREAK) su ASSEMblergames (RIP). [Le note di rilascio dicono:](/files/bananabreak_infos.txt)
+
+- C'è una cartella relativa alla versione USA (cancellata)
+- Alcuni file audio in tedesco (tagliati nella versione finale)
+- Una schermata del titolo differente
+- Una cutscene extra che manca nella versione fiinale

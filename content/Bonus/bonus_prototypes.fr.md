@@ -17,13 +17,16 @@ Le 20 mars 2021, [Hidden Palace commence à révéler son projet Deluge](https:/
 
 Les détails techniques sont sur les liens. Comme pour la version Dreamcast, il s'agit de prototypes NTSC. La chose intéressante reste le sélecteur de niveaux abordé dans les [Trivias](https://eviltwin.vibvib.fr/pages/Trivia/) et visible dans les [galeries](https://eviltwin.vibvib.fr/developpement/Levels_Selector/).
 
-![](/images/PS2_Evil_Twin_V0.612_Previewed.jpg) ![](/images/PS2_Evil_Twin_Preview_6.12.04.jpg) ![](/images/PS2_Evil_Twin_Review.jpg)
+![](/images/PS2_Evil_Twin_V0.612_Previewed.jpg)
+![](/images/PS2_Evil_Twin_Preview_6.12.04.jpg)
+![](/images/PS2_Evil_Twin_Review.jpg)
+{.cols}
 
 ## Dreamcast
 
 [EvilTwin Katana recovery \[Bananabreak\]](https://hiddenpalace.org/Evil_Twin:_Cyprien%27s_Chronicles_\(Dec_10,_2001_Katana_Development_Files\))
 
-![écran titre (béta)](/albums/developpement/Evil_Twin_Bananabreak.jpg)
+![écran titre (béta)](/images/Evil_Twin_Bananabreak.jpg)
 
 Posté sur les défunts forums de ASSEMblergames.com par [BANANABREAK](https://hiddenpalace.org/BANANABREAK), ce prototype a été retrouvé à l'intérieur du disque dur d'un kit de développement. Une partie de ces fichiers, effacés, ont du être récupéré. Le [document d'infos joint](https://eviltwin.vibvib.fr/files/bananabreak_infos.txt) contient le résumé suivant :
 

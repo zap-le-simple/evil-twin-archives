@@ -7,7 +7,8 @@ slug: widescreen
 
 Il est possible sur chacune des versions du jeu (PS2, Windows, Dreamcast) de configurer l’affichage en 16:9. Il s'agit évidemment d'élargir le champ visuel et non d'étirer l'image. Le jeu s'y prête bien avec ses grands espaces. Sur Dreamcast, si vous jouez sur la console, vous aurez par contre de gros ralentissements.
 
-![Exemple de Widescreen](/images/widescreen-simu.gif)
+![Exemple de Widescreen](/images/widescreen-simu.gif "Exemple d'affichage panoramique")
+{.center-bloc}
 
 ## Dreamcast
 

@@ -8,3 +8,7 @@
 .megaignore
 /_vrac
 Icon
+*.jpg
+*.png
+*.jpeg
+Icon
