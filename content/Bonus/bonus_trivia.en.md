@@ -12,17 +12,18 @@ lang = "en"
 
 The game use the Phoenix3D "middleware" from the (dead) frenchies 4X Technologies. This middleware was still in development during Evil Twin's production. And that would be an issue to In Utero, according to [Tramboi on Adventure Gamers (2004).](https://adventuregamers.com/archive/forums/general/5399-evil-twin.html#post_message_89327) How big ? Big enough to hide with any reference to 4X Technologies during the end credits.
 
-[![](images/Evil_Twin_Credits_0001.jpg)](images/Evil_Twin_Credits_0001.jpg) [![](images/Evil_Twin_Credits_0002.jpg)](images/Evil_Twin_Credits_0002.jpg)
+[![](/images/Evil_Twin_Credits_0001.jpg)](/images/Evil_Twin_Credits_0001.jpg) [![](/images/Evil_Twin_Credits_0002.jpg)](/images/Evil_Twin_Credits_0002.jpg)
+{.cols}
 
 Despite being hide from end credits, there is many references to 4X Technologies inside the game files.
 
 ## The twin gets tripled
 
-According to In Utero President X. Gonot in NextGeneration US, the Dreamcast version of Evil Twin was supposed to be the superior version, including DLCs (weapons, costumes...), internal-clock based events and [four VMU mini games](/pages/Jeux-VMU/).
+According to In Utero President X. Gonot in NextGeneration US, the Dreamcast version of Evil Twin was supposed to be the superior version, including DLCs (weapons, costumes...), internal-clock based events and [four VMU mini games](../../evil-twin-1/evil1_vmu/).
 
 Of course, the irony is that the Dreamcast version came as the worst version of the game (see after).
 
-![](images/NextGeneration_78_Tripled.png)
+![](/images/NextGeneration_78_Tripled.png)
 
 ## Dreamcast : the short version
 
@@ -38,19 +39,22 @@ Despite being in production according to found prototypes and commercial adverti
 
 Introduced as Evil Twin : Cyprien's Chronicles to US press, the title was reduce to Evil Twin just before the release... that never came.
 
-![](/cache/presse/evil_twin_ubisoft_in_utero_w600.jpg?cached=1648819564) ![](/cache/ressources-articless/Evil_Twin_Poster_US_w600.jpg?cached=1649876568) ![Evil Twin PS2 NTSC](images/Evil_Twin_PS2_NTSC.jpg)
+![](/images/evil_twin_ubisoft_in_utero_w600.jpg)
+![](/images/Evil_Twin_Poster_US_w600.jpg)
+![Evil Twin PS2 NTSC](/images/Evil_Twin_PS2_NTSC.jpg)
+{.cols}
 
 ## The last Echelon release
 
 Echelon was a real pain in the ass for Sega. The team released 188 Dreamcast games on internet. And Evil Twin was the last one for them before moving to Playstation 2 scene. Because Dreamcast's GD-Roms could handle 1Go, many titles have been shrunk to fit the 700 Mo CD-Rom used by gamers. [Here is the original .nfo file](/files/e-evil.nfo.txt).
 
- <video controls="" poster="/albums/ressources-articless/Evil_Twin_Cypriens_Echelon_cracktros.png"><source src="/albums/videos/Echelon_Cracktro_Evil_Twin.mp4" type="video/mp4"> <img src="/albums/ressources-articless/Evil_Twin_Cypriens_Echelon_cracktros.png"></video>
+ <video controls="" poster="/medias/videos/Echelon_Cracktro_Evil_Twin.png"><source src="/medias/videos/Echelon_Cracktro_Evil_Twin.mp4" type="video/mp4"> <img src="/medias/videos/Echelon_Cracktro_Evil_Twin.png"></video>
 
 ## Spot the differences
 
 Took me twenty years to realize that only the Dreamcast cover (and not even the manual) had a different artwork. Not *that* different. But still..
 
-![Comparaison Jaquette / Manuel](images/Dreamcast_Illustration.jpg)
+![Comparaison Jaquette / Manuel](/images/Dreamcast_Illustration.jpg)
 
 ## A cartoon
 
@@ -64,13 +68,14 @@ An abandoned approach was to use the analog stick, by pulling it at 360°, to tu
 
 There is many concept-arts showing Cyprien being a young kid or a teenager.
 
-![Cyprien Ado](images/cyprien_age_evolution.jpg)
+![Cyprien Ado](/images/cyprien_age_evolution.jpg)
 
 ## Choose your level
 
 A prototype from Playstation 2 shows a level selector when an island is loaded. Maybe it's was just for testing purpose. But the screen is maybe a little bit too well shiny for that use. [The gallery contains every one of them](medias/developpement/Levels_Selector/).
 
-![](/cache/developpement/Levels_Selector/Joeys_Island_w600.jpg) ![](/cache/developpement/Levels_Selector/Davids_Island_w600.jpg)
+![](/medias/developpement/Levels_Selector/Joeys_Island.jpg) ![](/medias/developpement/Levels_Selector/Davids_Island.jpg)
+{.cols}
 
 ## Lost Introduction
 

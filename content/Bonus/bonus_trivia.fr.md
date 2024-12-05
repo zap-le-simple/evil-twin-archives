@@ -54,7 +54,7 @@ Cauchemar de SEGA et des développeurs sur la Dreamcast, l'équipe Echelon publi
 Evil Twin fut leur dernière release avant de passer sur la console de Sony.  
 [En lien le fichier d'info complet](/files/e-evil.nfo.txt). Intro programmée par [Thomas Bernard](https://github.com/miniupnp/DreamCastIntros) pour Echelon.
 
-<video controls="" poster="https://eviltwin.vibvib.fr/albums/ressources-articless/Evil_Twin_Cypriens_Echelon_cracktros.png"><source src="https://eviltwin.vibvib.fr/albums/videos/Echelon_Cracktro_Evil_Twin.mp4" type="video/mp4"> <img src="/images/Evil_Twin_Cypriens_Echelon_cracktros.png"></video>
+ <video controls="" poster="/medias/videos/Echelon_Cracktro_Evil_Twin.png"><source src="/medias/videos/Echelon_Cracktro_Evil_Twin.mp4" type="video/mp4"> <img src="/medias/videos/Echelon_Cracktro_Evil_Twin.png"></video>
 
 ## Une illustration subtilement différente
 
@@ -80,7 +80,7 @@ Durant un temps il avait été envisagé de faire de Cyprien un adolescent. On p
 
 Les prototypes de la version Playstation 2 montrent l'existence d'un sélecteur de niveaux au chargement de chaque île. On pourrait penser qu'il s'agissait d'un moyen simple pour les testeurs de rapidement atteindre une zone. Cependant, le niveau des finitions de ces écrans semble témoigner d'une volonté de l'inclure dans la version commerciale. [La liste complète est visible dans les médias](https://eviltwin.vibvib.fr/developpement/Levels_Selector/).
 
-![](https://eviltwin.vibvib.fr/cache/developpement/Levels_Selector/Joeys_Island_w600.jpg) ![](https://eviltwin.vibvib.fr/cache/developpement/Levels_Selector/Davids_Island_w600.jpg)
+![](/medias/developpement/Levels_Selector/Joeys_Island.jpg) ![](/medias/developpement/Levels_Selector/Davids_Island.jpg)
 {.cols}
 
 ## Introduction de Lenny

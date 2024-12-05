@@ -47,7 +47,7 @@ Presentato alla stampa americana come Evil Twin : Cyprien's Chronicles, il titol
 
 Echelon era una vera spina nel fianco per Sega. Il team rilasciò 188 gioco del Dreamcast su Internet ed Evil Twin fu il loro ultimo titolo prima di spostarsi su PlayStation 2. Poiché i GD-Rom della console Sega potevano contenere al massimo 1 GB, molti titoli sono stati rimpiccioliti per adattarsi ai CD-Rom da 700 MB utilizzati dai giocatori. Ecco il [.nfo](/files/e-evil.nfo.txt) originale.
 
- <video controls="" poster="/albums/ressources-articless/Evil_Twin_Cypriens_Echelon_cracktros.png"><source src="/albums/videos/Echelon_Cracktro_Evil_Twin.mp4" type="video/mp4"> <img src="/albums/ressources-articless/Evil_Twin_Cypriens_Echelon_cracktros.png"></video>
+ <video controls="" poster="/medias/videos/Echelon_Cracktro_Evil_Twin.png"><source src="/medias/videos/Echelon_Cracktro_Evil_Twin.mp4" type="video/mp4"> <img src="/medias/videos/Echelon_Cracktro_Evil_Twin.png"></video>
 
 ## Trova le differenze
 
@@ -73,7 +73,8 @@ Ci sono parecchie concept-art che mostrano Cyprien come un bambino o un adolesce
 
 Un prototipo per PlayStation 2 mostra un selettore del livello quando viene caricata un'isola. Forse era solo a scopo di test, ma la schermata sembra un po' troppo rifinita per questo scopo. La [galleria](/medias/developpement/Levels_Selector/) contiene tutte le immagini.
 
-![](/cache/developpement/Levels_Selector/Joeys_Island_w600.jpg) ![](/cache/developpement/Levels_Selector/Davids_Island_w600.jpg)
+![](/medias/developpement/Levels_Selector/Joeys_Island.jpg) ![](/medias/developpement/Levels_Selector/Davids_Island.jpg)
+{.cols}
 
 ## Introduzione perduta
 

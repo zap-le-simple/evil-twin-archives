@@ -11,9 +11,9 @@ menus:
 
 # Bonus
 
-- [Curiosità e cavolate](bonus_trivia.md)
+- [Curiosità e cavolate](bonus_trivia)
 - [Sito originale in francese](/eviltwin-ubisoft/)
-- [Evil Twin: Kroniki Cypriena](bonus_kroniki_cypriena.md)
-- [Evil Twin Brasiliano-Portoghese](bonus_brazilian-portuguese.md)
-- [Prototipo di Evil Twin](bonus_prototypes.md)
+- [Evil Twin: Kroniki Cypriena](bonus_kroniki_cypriena)
+- [Evil Twin Brasiliano-Portoghese](bonus_brazilian-portuguese)
+- [Prototipo di Evil Twin](bonus_prototypes)
 {.section}
