@@ -81,4 +81,4 @@ Source : [WSGF](https://www.wsgf.org/dr/evil-twin-cypriens-chronicles)
 ![PCSX2 Cheats screenshot](/images/pcsx2-widescreen.png)
 
 Le plus simple :-)  
-[Télécharger ce fichier](https://eviltwin.vibvib.fr/files/5D795715.zip) et glissez-le dans le dossier *cheats\_ws* de PCSX2. Ouvrez le logiciel et dans le menu *PCSX2 > Game Setting* cochez *Patchs automatiques.* Tada !
+[Télécharger ce fichier](/files/5D795715.zip) et glissez-le dans le dossier *cheats\_ws* de PCSX2. Ouvrez le logiciel et dans le menu *PCSX2 > Game Setting* cochez *Patchs automatiques.* Tada !

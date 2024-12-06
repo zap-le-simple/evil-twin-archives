@@ -1,14 +1,14 @@
 ---
 title: "Files"
 author: "Zap' le Simple"
-lang: en
+lang: it
 slug: files
 menus:
   main:
     weight: 5
 ---
 
-# Files
+# Fichiers
 
 ## Windows
 

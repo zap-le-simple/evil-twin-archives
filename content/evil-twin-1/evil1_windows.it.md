@@ -15,9 +15,9 @@ Ecco un veloce tutorial che spiega come giocare a Evil Twin su Windows 10, trami
 
 - Installa il gioco da un disco originale o da un'immagine disco via [WinCDEmu](https://github.com/sysprogs/WinCDEmu).
 
-- Scarica e installa l'[update1](../Files/index.md), in questo modo puoi lanciare il gioco da Windows XP in su.
+- Scarica e installa l'[update1](/files/), in questo modo puoi lanciare il gioco da Windows XP in su.
 
-- Scarica e installa [no-CD](../Files/index.md), perché Windows 10 non supporta più il DRM.
+- Scarica e installa [no-CD](/files/), perché Windows 10 non supporta più il DRM.
 
 - Configura gli eseguibili EvilTwin.exe, Video.exe, Splash.exe e SuperPadCfg.exe con la modalità di compatibilità denominata Windows XP SP2, in fine spunta su *Disabilita ottimizzazioni schermo intero* ed esegui come amministratore.
 

@@ -3,9 +3,7 @@ title = "Prototypes"
 date = "2014-04-09"
 +++
 
-## Prototypes connus
-
-Il existe de nombreux prototypes disponibles
+# Prototypes d’Evil Twin
 
 ## Playstation 2
 

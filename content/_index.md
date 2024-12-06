@@ -1,5 +1,7 @@
 ---
 title: "Evil Twin Cyprien's Archive"
+lang: fr
+draft: false
 ---
 
 Archives d'Evil Twin : Cyprien's Chronicles.

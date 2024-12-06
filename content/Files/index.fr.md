@@ -1,9 +1,12 @@
-+++
-title = "Fichiers"
-date = "2014-04-09"
-menu = "main"
-weight = 5
-+++
+---
+title: "Fichiers"
+author: "Zap' le Simple"
+lang: fr
+slug: files
+menus:
+  main:
+    weight: 5
+---
 
 # Fichiers
 
