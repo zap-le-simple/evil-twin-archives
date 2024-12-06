@@ -1,10 +1,11 @@
 ---
-title: Développement
+title: Levels selector
 draft: false
-slug: developpement
+slug: Levels_Selector
 layout: albums
 lang: it
 summary: 
-  Captures d'écrans des versions de développement et des outils de conception.
+  From the beta version 
+
 ---
 {{< gallery match="*" thumbnailResizeOptions="600x600 q90 Lanczos" >}}
