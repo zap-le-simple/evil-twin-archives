@@ -1,4 +1,4 @@
-baseURL = 'http://127.0.0.1:1313/'
+baseURL = 'http://eviltwin-hugo:8888/'
 languageCode = 'fr-FR'
 title = "Evil Twin : Cyprien's Archives"
 theme = 'temple'

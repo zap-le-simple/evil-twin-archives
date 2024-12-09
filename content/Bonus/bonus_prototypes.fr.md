@@ -1,7 +1,9 @@
-+++
-title = "Prototypes"
-date = "2014-04-09"
-+++
+---
+title: "Prototypes"
+author: "Zap' le Simple"
+lang: fr
+slug: prototypes
+---
 
 # Prototypes d’Evil Twin
 

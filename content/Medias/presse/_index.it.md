@@ -5,5 +5,5 @@ slug: press
 layout: albums
 lang: it
 summary: 
-  Magazine, newspaper...
+  Various scan from french and foreign magazines.
 ---
