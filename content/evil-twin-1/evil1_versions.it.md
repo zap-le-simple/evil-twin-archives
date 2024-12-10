@@ -1,31 +1,28 @@
 ---
-title: "Versions comparison"
+title: "Differenze tra versioni"
 author: "Zap' le Simple"
 lang: it
 slug: versions
 ---
 
-*Not yet translated*
+# Differenze tra versioni
 
-# Versions comparison
-
-Dreamcast was the first target for Evil Twin's production. But In Utero used their middleware Phoenix3D to work simultaneously for the Playstation 2 & Windows PC version.
-
-However, there are a few differences between them. 
+Il Dreamcast era l'obiettivo principale per la produzione di Evil Twin, ma In Utero utilizzò il suo middleware, Phoneix3D, per produrre simultaneamente la versione PlayStation 2 e PC.
+Comunque, ci sono poche differenze fra loro.
 
 <div class="juxtapose" id="horizontal"></div>
 
 ## Dreamcast
 
-On Dreamcast, the game suffer from two missing levels and a higher texture compression. During ingame cinematics, [voices acting cuts the soundtrack](https://twitter.com/ocornut/status/1171361852313370625). Due to memory issue there is also less NPC. However lighting effects are quite good. Better than de PS2 version.
+Su Dreamcast il gioco risente di un'elevate compressione delle texture, inoltre mancano 2 livelli. Durante le cinematiche in-game, le voci interrompono la colonna sonora. A causa di un problemi con la memoria, il titolo presenta meno NPC. Ciò nonostante, gli effetti di luce abbastanza buoni, addirittura sono migliori di quelli della versione PS2.
 
-Whereas the game used to cost nothing in 2002/2003, it's now an expensive dreamcast game.
+Se nel 2002/2003 il gioco non costasse un granché, oggi il valore di questa versione è altissimo.
 
 <div class="juxtapose" id="horizontal2"></div>
 
 ## Playstation 2 & Windows
 
-Windows & PS2 versions are almost the same. Even if the texture compression is less destructive on PC. The main difference are the lighting effects. There is almost nothing on PS2.
+La versione PlayStation 2 e quella Windows sono quasi identici. Anche se nella versione PC la compressione delle texture risulta meno distruttiva, la principale differenza sta negli effetti di luce, che sono quassi assenti su PS2.
 
 <div class="juxtapose" id="horizontal3"></div>
 

@@ -67,7 +67,7 @@ Venne scartata l'idea di usare lo stick analogico, muovendolo a 360°, per trasf
 
 Ci sono parecchie concept-art che mostrano Cyprien come un bambino o un adolescente.
 
-![Cyprien Ado](images/cyprien_age_evolution.jpg)
+![Cyprien Ado](/images/cyprien_age_evolution.jpg)
 
 ## Scegliere il livello
 

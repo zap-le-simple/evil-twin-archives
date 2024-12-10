@@ -7,3 +7,4 @@ lang: fr
 summary: 
   Magazine, newspaper...
 ---
+{{< gallery match="*" thumbnailResizeOptions="600x600 q90 Lanczos" >}}

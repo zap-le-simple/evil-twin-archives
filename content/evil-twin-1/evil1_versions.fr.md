@@ -1,11 +1,11 @@
 ---
-title: "Versions"
+title: "Différences entre les versions"
 author: "Zap' le Simple"
 lang: fr
 slug: versions
 ---
 
-# Versions
+# Différences entre les versions
 
 Développé à l'origine pour la Dreamcast, le jeu est finalement porté sur Windows et Playstation 2. Ces deux versions sont publiées fin 2001 puis en mars 2002 sort finalement la version Dreamcast après l'abandon de celle-ci par SEGA. Il s'agit d'un des tout derniers jeux publiés en Europe. La version US est annulée.
 
@@ -15,7 +15,7 @@ Du fait des importantes différences matériels entre les trois plateformes et m
 
 ## Dreamcast
 
-Bien que cible première du développement, il s'agit au final de la version la plus amputé du jeu. Il lui manque deux niveaux : la zone de cuisson sur l'île de Jocelyn et l'infirmerie sur l'île de Stéphane. Les cinématiques n'ont également pas de fond musical lorsque les personnages parlent du fait du moteur [ne pouvant gérer deux sources audio simultanées](https://twitter.com/ocornut/status/1171361852313370625). Il y a moins de personnages (notamment des ennemis) du fait de la mémoire vive et la disposition des têtes de Lenny est également différente. Les textures sont elles aussi beaucoup plus compressées, notamment sur certains éléments secondaires. Probablement pour tenir sur les 1 Go du GD-ROM. Par contre elle brille par ses effets de lumière absents de la version Playstation 2. 
+Bien que cible première du développement, il s'agit au final de la version la plus amputé du jeu. Il lui manque deux niveaux : la zone de cuisson sur l'île de Jocelyn et l'infirmerie sur l'île de Stéphane. Les cinématiques n'ont également pas de fond musical lorsque les personnages parlent du fait du moteur [ne pouvant gérer deux sources audio simultanées](https://twitter.com/ocornut/status/1171361852313370625) ([backup](/images/ocornut-twitter.png)). Il y a moins de personnages (notamment des ennemis) du fait de la mémoire vive et la disposition des têtes de Lenny est également différente. Les textures sont elles aussi beaucoup plus compressées, notamment sur certains éléments secondaires. Probablement pour tenir sur les 1 Go du GD-ROM. Par contre elle brille par ses effets de lumière absents de la version Playstation 2. 
 
 Étonnamment la côte actuelle du jeu est délirante alors qu'il se trouvait à 2 euros dans les bacs fin 2002.
 

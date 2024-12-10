@@ -13,7 +13,7 @@ You can play Evil Twin through emulation or the original Windows version. The mo
 
 On Mac, Linux or Android, the easiest way is the Dreamcast or Playstation 2 version. For the Dreamcast, [Redream](https://redream.io/) support the game from start to end. Despite being the [inferior version of the game](evil1_versions), if you're running on a low-end computer, it's a good option.
 
-On PCSX2 you'll get the best experience. The game is really close to the Windows version, plus widescreen, plus saves states, plus modern controller support. And now there is a good edition for [mac](https://github.com/PCSX2/pcsx2/releases).
+On PCSX2 you'll get the best experience. The game is really close to the Windows version, plus [widescreen](evil1_widescreen), plus saves states, plus modern controller support. And now there is a good edition for [mac](https://github.com/PCSX2/pcsx2/releases).
 
 ## The Windows version
 

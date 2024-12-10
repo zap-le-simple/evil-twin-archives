@@ -5,6 +5,8 @@ lang: en
 slug: widescreen
 ---
 
+# Playing Widescreen
+
 On each version of Evil Twin, you can hack the game to play fullscreen and enjoy a better field of view. If you play on an original Dreamcast, beware of high fps drops.
 
 ![Widescreen example](/images/widescreen-simu.gif "Exemple d'affichage panoramique")
@@ -80,7 +82,10 @@ Source : [WSGF](https://www.wsgf.org/dr/evil-twin-cypriens-chronicles)
 
 ## Playstation 2
 
-![PCSX2 Cheats screenshot](/images/pcsx2-widescreen.png)
+![PCSX2 Cheats screenshot](/images/pcsx2.en.png)
 
 The easy one !  
-[Download this file](/files/5D795715.zip) , drop-it inside the *cheat\_ws* folder of PCSX2. Start the emulator, go to *PCSX2 > Game Setting*. Check *Automatic Patchs*.
+
+- Right-clic on the game
+- Properties > Patchs
+- Check *Widescreen*
