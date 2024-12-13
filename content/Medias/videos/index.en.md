@@ -2,7 +2,6 @@
 title: Videos
 draft: false
 slug: videos
-layout: album
 lang: en
 summary: 
    Trailers, TV Show…
